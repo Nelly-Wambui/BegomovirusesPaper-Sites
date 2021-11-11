@@ -50,6 +50,6 @@
 
 [FASTQC AND MULTIQC](https://stab.st-andrews.ac.uk/wiki/index.php/FASTQC_and_MultiQC)
 
-[BLAST](chrome-extension://gphandlahdpffmccakmbngmbjnjiiahp/https://hpc.ilri.cgiar.org/beca/training/AdvancedBFX2014_2/course/Intro_to_CommandLineBLAST.pdf)
+[BLAST](https://hpc.ilri.cgiar.org/beca/training/AdvancedBFX2014_2/course/Intro_to_CommandLineBLAST.pdf)
 
  
