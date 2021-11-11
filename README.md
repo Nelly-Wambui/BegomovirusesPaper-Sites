@@ -46,3 +46,7 @@
 
 [EXPLAINING SAM FLAGS](https://broadinstitute.github.io/picard/explain-flags.html)
 
+[CONVERTING SAM FILES TO FASTQ FILES AND MEGAHIT ASSEMBLY](https://rstudio-pubs-static.s3.amazonaws.com/425650_b4537c6bfdf4470ca3d244e499d115cf.html)
+
+[FASTQC AND MULTIQC](https://stab.st-andrews.ac.uk/wiki/index.php/FASTQC_and_MultiQC)
+
