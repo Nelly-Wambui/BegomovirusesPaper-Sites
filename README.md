@@ -52,4 +52,12 @@
 
 [BLAST](https://hpc.ilri.cgiar.org/beca/training/AdvancedBFX2014_2/course/Intro_to_CommandLineBLAST.pdf)
 
- 
+[MAKING BLAST DATABASE](http://georg.iba-science.de/makeblastdb.html)
+
+[EFETCH COMMANDS](https://www.ncbi.nlm.nih.gov/books/NBK179288/)
+
+[BLAST FORMATTING OUTPUT](https://www.biostars.org/p/88944/)
+
+[BLAST REMOTE COMMAND](https://www.biostars.org/p/260744/)
+
+[ORF FINDER](https://www.ncbi.nlm.nih.gov/orffinder/)
